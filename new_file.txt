@@ -2,4 +2,6 @@ aaaaaaaaaaaaaaaaaaaa|zzzzzzzzzzzzzzzzzz|I'm going to be inside the master branch
 Second modification on remote repository
 Second modification on local repository in feature branch
 Third modification in local repository on feature branch
+1st modification in local repository on 2nd_feature_branch
+
 
